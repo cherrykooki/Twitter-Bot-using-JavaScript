@@ -1,8 +1,6 @@
 # Twitter-Bot-using-JavaScript(NodeJs)
 
 ## Table of Contents 
-#####*generated with [DocToc](http://doctoc.herokuapp.com/)*
-
 - [Introduction](#introduction)
 - [Setting up node](#setting-up-node)
 	- [Download and install node](#download-and-install-node)
